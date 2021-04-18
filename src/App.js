@@ -78,6 +78,7 @@ export default function App() {
           </div>
         </div>
       </div>
+      <a href="https://github.com/17thaugust/weather-react" target="blank">Coded</a> by Karolina <br />
     </div>
   );
 }
